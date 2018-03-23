@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LockNote</string>
+    <string name="instructions">Place your fingertip on the fingerprint area to verify your identity</string>
+    <string name="sensor_not_available">Your device doesn\'t support fingerprint authentication</string>
+    <string name="finger_permission">Please enable the fingerprint permission</string>
+    <string name="no_finger_registered">No fingerprint configured. Please register at least one fingerprint in your device\'s Settings</string>
+    <string name="no_screen_lock">Please enable lockscreen security in your device\'s Settings</string>
+</resources>
